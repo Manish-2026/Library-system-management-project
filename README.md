@@ -55,9 +55,3 @@ Relationships are defined using foreign keys (see `fk_queries.sql`).
 
 ---
 
-## ⚙️ Usage
-
-1. Import schema and data:
-   ```sql
-   source Sql_queries01.sql;
-   source fk_queries.sql;
